@@ -7,10 +7,7 @@ In this project, there will be another option. If the customer question is about
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
 
-Scope of Work
+The document used in IBM Discovery is ecobee3_userguide.
 
-Create a customer care dialog skill in Watson Assistant
-Use Smart Document Understanding to build an enhanced Watson Discovery collection
-Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
-Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
-
+Node-Red Dashboard link after deploying :https://node-red-xajte.eu-gb.mybluemix.net/red/#flow/2065016b.34320e
+Youtube video link is : https://youtu.be/D98KYzkotVk
