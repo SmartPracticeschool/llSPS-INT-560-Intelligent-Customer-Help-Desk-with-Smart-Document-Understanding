@@ -10,4 +10,4 @@ To take it a step further, the project shall use the Smart Document Understandin
 The document used in IBM Discovery is ecobee3_userguide.
 
 Node-Red Dashboard link after deploying :https://node-red-xajte.eu-gb.mybluemix.net/red/#flow/2065016b.34320e
-Youtube video link is : https://youtu.be/IsERnO5__Vs
+Video link (Drive)is : https://drive.google.com/file/d/1mM3QOpPSX_RHt4EfXKRJeFIvs5PScXMt/view?usp=sharing
